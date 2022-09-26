@@ -1,0 +1,6 @@
+framework module GLTFKit2 {
+  umbrella header "GLTFKit2.h"
+
+  export *
+  module * { export * }
+}
